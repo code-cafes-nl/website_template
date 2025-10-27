@@ -1,0 +1,1 @@
+Sitemap: https://code-cafes-nl.github.io/website_template/sitemap.xml
