@@ -3,4 +3,7 @@ title: meetups
 listing: 
   type: table
   contents: events.yaml
+  sort: "date"
+  field-links: [title]
+  fields: [title, description,location,presenter,date, time]
 ---
